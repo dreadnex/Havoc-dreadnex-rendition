@@ -3,7 +3,7 @@
   <h1>Havoc: The Dreadnex Rendition</h1>
   <br/>
 
-  <p><i>Havoc is a modern and malleable post-exploitation command and control framework, created by <a href="https://twitter.com/C5pider">@C5pider</a>.</i></p>
+  <p><i>Havoc is a modern and malleable post-exploitation command and control framework
   <br />
 
   <img src="assets/Screenshots/FullSessionGraph.jpeg" width="90%" /><br />
