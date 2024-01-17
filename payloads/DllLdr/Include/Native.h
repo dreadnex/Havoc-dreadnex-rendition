@@ -203,6 +203,6 @@ typedef struct _LDR_DATA_TABLE_ENTRY
     LIST_ENTRY ServiceTagLinks;
     LIST_ENTRY StaticLinks;
     PVOID ContextInformation;
-    ULONG_PTR OriginalBase;
     LARGE_INTEGER LoadTime;
+    ULONG_PTR OriginalBase;
 } LDR_DATA_TABLE_ENTRY, *PLDR_DATA_TABLE_ENTRY;
