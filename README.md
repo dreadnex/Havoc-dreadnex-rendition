@@ -1,6 +1,6 @@
 <div align="center">
   <img width="125px" src="assets/Havoc.png" />
-  <h1>Havoc</h1>
+  <h1>Havoc: The Dreadnex Rendition</h1>
   <br/>
 
   <p><i>Havoc is a modern and malleable post-exploitation command and control framework, created by <a href="https://twitter.com/C5pider">@C5pider</a>.</i></p>
@@ -84,6 +84,4 @@ To contribute to the Havoc Framework, please review the guidelines in [Contribut
 
 ### Note
 
-Please do not open any issues regarding detection. 
-
-The Havoc Framework hasn't been developed to be evasive. Rather it has been designed to be as malleable & modular as possible. Giving the operator the capability to add custom features or modules that evades their targets detection system. 
+This is a version meant to be evasive.
